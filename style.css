@@ -1,0 +1,233 @@
+body
+{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+ color: yellow;
+}
+.vir-abt{
+    border-style: solid;
+    float: left;
+    width: 71%;
+    /* color: black; */
+}
+.vir-img{
+    width: 28%;
+    float: right;
+}
+.virat{
+    text-align: center;
+    width: 100%;
+    /* background-color: aqua; */
+}
+.headw{
+    width: 100%;
+    text-align: center;
+    color:black;
+    background-color:yellow;
+}
+.abdw{
+        width: 100%;
+        text-align: center;
+        color:black;
+        background-color:yellow;
+}
+.brew{
+        width: 100%;
+        text-align: center;
+        color:black;
+        background-color:yellow;
+}
+.gayw{
+        width: 100%;
+        text-align: center;
+        color:black;
+        background-color:yellow;
+}
+.u19txt{
+    border-style: solid;
+    float: right;
+    width: 71%;
+    /* background-color: aqua; */
+    /* color: black; */
+}
+.u19img{
+    border-style: solid;
+    float: left;
+    width: 28%;
+}
+.intertxt{
+    border-style: solid;
+    float: left;
+    width: 65%;
+    /* color: black; */
+}
+.interimg{
+    border-style: solid;
+    float: right;
+    width: 34%;
+
+}
+.virat{
+    background: #000;
+}
+.abd{
+    text-align: center;
+    width: 100%;
+    background-color:yellow;
+    color: black;
+}
+.abdtxt{
+    border-style: solid;
+    width: 71%;
+    float: right;
+}
+.abdimg{
+    border-style: solid;
+    width: 28%;
+    float: left;
+}
+.dom{
+    text-align: center;
+    width: 100%;
+}
+.domtxt{
+    border-style: solid;
+    width: 70%;
+    float: left;
+}
+.domimg{
+    border-style: solid;
+    width: 29%;
+    float: right;
+}
+.abint{
+    text-align: center;
+    width: 100%;
+}
+.abinttxt{
+    border-style: solid;
+    width: 70%;
+    float: right;
+}
+.abintimg{
+    border-style: solid;
+    width: 29%;
+    float: left;
+}
+.vir{
+    text-align: center;
+    width: 100%;
+    /* background-color: aqua; */
+}
+.u19{
+    text-align: center;
+    width: 100%;
+}
+.bre{
+    text-align: center;
+    width: 100%;
+    background-color: yellow;
+    color: black;
+}
+.brelife{
+    text-align: center;
+    width: 100%;
+}
+.bretxt{
+    border-style: solid;
+    width: 70%;
+    float: right;
+}
+.breimg{
+    border-style: solid;
+    width: 29%;
+    float: left;
+}
+.breint{
+    text-align: center;
+    width: 100%;
+}
+.breinttxt{
+    border-style: solid;
+    width: 70%;
+    float: right;
+}
+.breintimg{
+    border-style: solid;
+    width: 29%;
+    float: left;
+}
+.brecap{
+    text-align: center;
+    width: 100%;
+}
+.brecaptxt{
+    border-style: solid;
+    width: 70%;
+    float: left;
+}
+.brecapimg{
+    border-style: solid;
+    width: 29%;
+    float: right;
+}
+.gayle{
+    text-align: center;
+    width: 100%;
+    background-color: yellow;
+    color: black;
+}
+.gayear{
+    text-align: center;
+    width: 100%;
+}
+.gayeartxt{
+    border-style: solid;
+    width: 70%;
+    float: right;
+}
+.gayearimg{
+    border-style: solid;
+    width: 29%;
+    float: left;
+}
+.gayint{
+    text-align: center;
+    width: 100%;
+}
+.gayinttxt{
+    border-style: solid;
+    width: 70%;
+    float: left;
+}
+.gayintimg{
+    border-style: solid;
+    width: 29%;
+    float: right;
+}
+.gayt20{
+    text-align: center;
+    width: 100%;
+}
+.gayt20txt{
+    border-style: solid;
+    width: 70%;
+    float: right;
+}
+.gayt20img{
+    border-style: solid;
+    width: 29%;
+    float: left;
+}
+.Cric{
+    text-align: center;
+    width: 100%;
+}
+.Cricket{
+    border-style: solid;
+
+}
